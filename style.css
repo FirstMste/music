@@ -1,0 +1,22 @@
+html {
+  background: #132561;
+}
+
+.bg-dark {
+  background: #191919;
+  color: white;
+}
+
+.carousel-item {
+  height: 32rem;
+  background: #191919;
+  color: white;
+  position: relative;
+}
+.container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
