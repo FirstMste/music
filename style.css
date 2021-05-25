@@ -2,11 +2,6 @@ html {
   background: #132561;
 }
 
-.bg-dark {
-  background: #191919;
-  color: white;
-}
-
 .carousel-item {
   height: 32rem;
   background: #191919;
