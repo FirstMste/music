@@ -5,8 +5,9 @@ html {
 .carousel-item {
   height: 32rem;
   background: #191919;
-  color: white;
+  color: red;
   position: relative;
+  font-size: 22px;
 }
 .container {
   position: absolute;
@@ -14,6 +15,10 @@ html {
   left: 0;
   right: 0;
   padding-bottom: 50px;
+}
+.random {
+  width: 100%;
+  background: white;
 }
 .table {
   background-color: #132561;
