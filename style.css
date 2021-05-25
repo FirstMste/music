@@ -15,3 +15,8 @@ html {
   right: 0;
   padding-bottom: 50px;
 }
+.table {
+  background-color: #132561;
+  color: white;
+  padding-top: 2px;
+}
