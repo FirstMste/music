@@ -1,7 +1,13 @@
 html {
   background: #132561;
 }
-
+.d-flex {
+  background: none;
+  background-color: black;
+}
+.form-control {
+  background-color: black;
+}
 .carousel-item {
   height: 32rem;
   background: #191919;
